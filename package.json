@@ -1,0 +1,25 @@
+{
+  "name": "bottlebot",
+  "version": "1.0.0",
+  "description": "HackClub Bot that responds to messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellaroo/BottleBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ellaroo/BottleBot/issues"
+  },
+  "homepage": "https://github.com/ellaroo/BottleBot#readme",
+  "dependencies": {
+    "@slack/bolt": "^5.1.0",
+    "dotenv": "^17.4.2"
+  }
+}
